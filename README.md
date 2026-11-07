@@ -1,5 +1,6 @@
-# Projekt_Kernel02_JAZRepositoryDummyTemplate
-Neues Repository anhand dieser Vorlage erstellen.
+# Projekt_Kernel02_JAZRepositoryDummyTemplate_JythonJava8
+Neues Repository anhand dieser Vorlage erstellen, das Jython kann.<BR>
+<BR>
 Das neue Repository lokal clonen.<br>
 Umbennung des Verzeichnisordners "...TEMPLATE..." kann in der "normalen" GitHub - Seite nicht erfolgen. Git kann auch keine Verzeichnisse umbenennen.
 Aber es gibt ein Plugin, welches man duch Drücken des Punkts "." öffnen kann. 
