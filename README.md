@@ -1,4 +1,8 @@
 # Projekt_Kernel02_JAZRepositoryDummyTemplate_JythonJava8
+Java mit Python - Jython<BR>
+Wichtig: Jython 2.7 funktioniert nur mit Python 2 und Java 8.<BR>
+
+-----------------------------------------------------------------------------------
 Neues Repository anhand dieser Vorlage erstellen, das Jython kann.<BR>
 <BR>
 Das neue Repository lokal clonen.<br>
