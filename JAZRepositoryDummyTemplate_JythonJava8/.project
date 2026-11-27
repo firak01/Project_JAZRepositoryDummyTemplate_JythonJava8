@@ -3,6 +3,7 @@
 	<name>JAZRepositoryDummyTemplate_JythonJava8</name>
 	<comment></comment>
 	<projects>
+		<project>JYZKernelEngine</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
